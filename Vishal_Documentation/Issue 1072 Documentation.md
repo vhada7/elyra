@@ -9,7 +9,7 @@ Eventually though she came to the same conclusion we did. She said that one drag
 To accomplish this is not possible in Elyra; it would need to be updated in the JupyterLab source code. 
 She summed up our conversation in the comment below and removed the “good first issue” label.
 
-<img src="ImageKarla.png" />
+<img src="./ImageKarla.png" />
 
 
 
